@@ -1,9 +1,13 @@
 ### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Luz Andrea Huertas Guerrero</h1>
+<h1 align="center">Hi 👋, I'm Luz Andrea Huertas</h1>
 <h3 align="center">A passionate data analyst from Colombia</h3>
 
+- 🔭 I did the project some time ago [Movie Recommendation:Movie Recommendation System](https://github.com/AndreaHuertas/P1)
+
 - 👯 I’m looking to collaborate on [𝗛𝗼𝘁𝗲𝗹 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀: Analysis of the hotel industry in the United States](https://github.com/HenryProjectsLab/Hotel_Analytics)
+
+- 🤝I did this other project [Telecommunications analysis in Argentina](https://github.com/AndreaHuertas/P3)
 
 - 👨‍💻 All of my projects are available at [https://github.com/AndreaHuertas](https://github.com/AndreaHuertas)
 
