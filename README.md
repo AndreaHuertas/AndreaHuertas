@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AndreaHuertas](https://github.com/AndreaHuertas)
 
-- 💬 Ask me about **Python, Power BI,R,SQL, streamlit**
+- 💬 Ask me about **Python, Power BI, R, SQL, Streamlit**
 
 - 📫 How to reach me **lhuertasg@ucentral.edu.co; andrehuertasg@gmail.com**
 
